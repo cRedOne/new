@@ -1,0 +1,90 @@
+﻿html, body, #root, .app {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(to bottom, #000000, #000033);
+    color: white;
+    display: flex;
+    flex-direction: column;
+}
+
+.header, .bottom-menu {
+    background-color: rgba(255, 255, 255, 0.2); /* Полупрозрачный белый */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    width: 100%; /* Устанавливаем ширину на 100% */
+    box-sizing: border-box;
+}
+
+.header {
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    padding: 20px;
+}
+
+.bottom-menu {
+    position: fixed; /* Меняем позиционирование на fixed */
+    bottom: 0; /* Прижимаем к нижнему краю */
+    left: 0;
+    right: 0;
+    height: 60px; /* Фиксированная высота */
+    display: flex;
+    justify-content: space-between; /* Устанавливаем горизонтальное расположение */
+    padding: 0; /* Убираем внутренние отступы */
+    box-sizing: border-box; /* Учитываем padding в ширине */
+}
+
+.game-container {
+    position: relative; /* Устанавливаем относительное позиционирование для родительского контейнера */
+    padding: 20px;
+    flex: 1; /* Занимает оставшееся пространство */
+    width: 100%;
+    box-sizing: border-box;
+    overflow: hidden; /* Обеспечиваем, чтобы шар не выходил за пределы контейнера */
+    display: flex;
+    justify-content: center; /* Центрируем по горизонтали */
+    align-items: center; /* Центрируем по вертикали */
+}
+
+.button {
+    background-color: rgba(255, 255, 255, 0.2); /* Полупрозрачный белый */
+    width: 33.33%; /* Равномерное распределение кнопок */
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center; /* Центрируем текст кнопки */
+    border: none;
+    cursor: pointer;
+    font-size: 2vw;
+    color: #000;
+}
+
+    .button:hover {
+        background-color: rgba(255, 255, 255, 0.5); /* Полупрозрачный белый */
+        cursor: pointer;
+    }
+
+/* Адаптивность для мобильных устройств */
+@media (max-width: 600px) {
+    .header, .bottom-menu {
+        
+        text-align: center;
+    }
+
+    .game-container {
+        padding: 10px;
+    }
+
+    .button {
+        width: 100%;
+        margin: 5px 0;
+    }
+}
