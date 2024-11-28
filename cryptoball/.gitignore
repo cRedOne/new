@@ -1,0 +1,12 @@
+.vs/
+*.vsidx
+.DS_Store
+Thumbs.db
+*.log
+node_modules/
+dist/
+build/
+.idea/
+.vscode/
+.git/
+.env
