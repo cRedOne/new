@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\acer\\source\\repos\\cryptoBall\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED2ECA54-B8E1-4E2E-87B5-C0447B69769B}|cryptoBall\\cryptoball.esproj|c:\\users\\acer\\source\\repos\\cryptoball\\cryptoball\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{ED2ECA54-B8E1-4E2E-87B5-C0447B69769B}|cryptoBall\\cryptoball.esproj|solutionrelative:cryptoball\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED2ECA54-B8E1-4E2E-87B5-C0447B69769B}|cryptoBall\\cryptoball.esproj|c:\\users\\acer\\source\\repos\\cryptoball\\cryptoball\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED2ECA54-B8E1-4E2E-87B5-C0447B69769B}|cryptoBall\\cryptoball.esproj|solutionrelative:cryptoball\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED2ECA54-B8E1-4E2E-87B5-C0447B69769B}|cryptoBall\\cryptoball.esproj|c:\\users\\acer\\source\\repos\\cryptoball\\cryptoball\\src\\pages\\page3.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{ED2ECA54-B8E1-4E2E-87B5-C0447B69769B}|cryptoBall\\cryptoball.esproj|solutionrelative:cryptoball\\src\\pages\\page3.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED2ECA54-B8E1-4E2E-87B5-C0447B69769B}|cryptoBall\\cryptoball.esproj|c:\\users\\acer\\source\\repos\\cryptoball\\cryptoball\\cryptoball.esproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{ED2ECA54-B8E1-4E2E-87B5-C0447B69769B}|cryptoBall\\cryptoball.esproj|solutionrelative:cryptoball\\cryptoball.esproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED2ECA54-B8E1-4E2E-87B5-C0447B69769B}|cryptoBall\\cryptoball.esproj|c:\\users\\acer\\source\\repos\\cryptoball\\cryptoball\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{ED2ECA54-B8E1-4E2E-87B5-C0447B69769B}|cryptoBall\\cryptoball.esproj|solutionrelative:cryptoball\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED2ECA54-B8E1-4E2E-87B5-C0447B69769B}|cryptoBall\\cryptoball.esproj|c:\\users\\acer\\source\\repos\\cryptoball\\cryptoball\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{ED2ECA54-B8E1-4E2E-87B5-C0447B69769B}|cryptoBall\\cryptoball.esproj|solutionrelative:cryptoball\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED2ECA54-B8E1-4E2E-87B5-C0447B69769B}|cryptoBall\\cryptoball.esproj|c:\\users\\acer\\source\\repos\\cryptoball\\cryptoball\\src\\pages\\maincontainer.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{ED2ECA54-B8E1-4E2E-87B5-C0447B69769B}|cryptoBall\\cryptoball.esproj|solutionrelative:cryptoball\\src\\pages\\maincontainer.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED2ECA54-B8E1-4E2E-87B5-C0447B69769B}|cryptoBall\\cryptoball.esproj|c:\\users\\acer\\source\\repos\\cryptoball\\cryptoball\\src\\components\\ball.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{ED2ECA54-B8E1-4E2E-87B5-C0447B69769B}|cryptoBall\\cryptoball.esproj|solutionrelative:cryptoball\\src\\components\\ball.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED2ECA54-B8E1-4E2E-87B5-C0447B69769B}|cryptoBall\\cryptoball.esproj|c:\\users\\acer\\source\\repos\\cryptoball\\cryptoball\\src\\components\\gamecontainer.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{ED2ECA54-B8E1-4E2E-87B5-C0447B69769B}|cryptoBall\\cryptoball.esproj|solutionrelative:cryptoball\\src\\components\\gamecontainer.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED2ECA54-B8E1-4E2E-87B5-C0447B69769B}|cryptoBall\\cryptoball.esproj|c:\\users\\acer\\source\\repos\\cryptoball\\cryptoball\\src\\components\\bottommenu.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{ED2ECA54-B8E1-4E2E-87B5-C0447B69769B}|cryptoBall\\cryptoball.esproj|solutionrelative:cryptoball\\src\\components\\bottommenu.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED2ECA54-B8E1-4E2E-87B5-C0447B69769B}|cryptoBall\\cryptoball.esproj|c:\\users\\acer\\source\\repos\\cryptoball\\cryptoball\\src\\pages\\page2.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{ED2ECA54-B8E1-4E2E-87B5-C0447B69769B}|cryptoBall\\cryptoball.esproj|solutionrelative:cryptoball\\src\\pages\\page2.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED2ECA54-B8E1-4E2E-87B5-C0447B69769B}|cryptoBall\\cryptoball.esproj|c:\\users\\acer\\source\\repos\\cryptoball\\cryptoball\\src\\components\\header.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{ED2ECA54-B8E1-4E2E-87B5-C0447B69769B}|cryptoBall\\cryptoball.esproj|solutionrelative:cryptoball\\src\\components\\header.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\cryptoBall\\cryptoball\\.gitignore",
+              "RelativeDocumentMoniker": "cryptoball\\.gitignore",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\cryptoBall\\cryptoball\\.gitignore",
+              "RelativeToolTip": "cryptoball\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG/SURBVDhPrZRNTgIxFMerDIaEhHgU97JxwUKGGaNeQJdyCY0XUBDWGhg4AB\u002BuvQk7OQCRFTP1fXWmMxUMCT94ee177eu/LVQdFK31kTSJ0WgEIa0SMJ2A6QTHcF9iicQqlYpa/6zv2\u002B2HD5nuEkWR/l4udRzHZBtjGzFor1YrPR6P9WKx0MNhpN96vTuZThyLJ1AJLK/iJFFxjBanBsXIozqkWq2qev1c1Wq19063e0ZBwBNP4JaQ6WRC/i8ajQb5wWBAvnxyghpOqQPkC8L5IEEQKjgxaqOTFsCd65tb6nmlkur1\u002BxwXCgX58KfT7QptwvCK52wrSLcJvtUKOABkQ6HFXwbGsmMRBkchzpjNphLZDSrEn5G1qnsp\u002BPEtheloXouRnXDTTjhb5tXmeyg0IgzuliHp\u002By0OANbiOCDXp1IYo3mMUxBT8/mMA/8QhGH6ZzC4Zwi5ZqoQB9M3h62I/\u002B/SAQpniBmtPvdQyGeYUdgyX8pl05eIBSxmTzQYEYbc42AuJQWLGJNQEcrJG4A4BTHneSW2sqfKOyybkxXMPbAvrx3IsyLzkPJFmUcWYtDntjG6lIvnp8cvKXNIlPoFvstpJRlQPIAAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-11-28T08:38:54.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Ball.jsx",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\cryptoBall\\cryptoball\\src\\components\\Ball.jsx",
+              "RelativeDocumentMoniker": "cryptoball\\src\\components\\Ball.jsx",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\cryptoBall\\cryptoball\\src\\components\\Ball.jsx",
+              "RelativeToolTip": "cryptoball\\src\\components\\Ball.jsx",
+              "ViewState": "AgIAACIAAAAAAAAAAAAtwDAAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-11-28T08:17:03.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainContainer.jsx",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\cryptoBall\\cryptoball\\src\\pages\\MainContainer.jsx",
+              "RelativeDocumentMoniker": "cryptoball\\src\\pages\\MainContainer.jsx",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\cryptoBall\\cryptoball\\src\\pages\\MainContainer.jsx",
+              "RelativeToolTip": "cryptoball\\src\\pages\\MainContainer.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-11-28T07:30:17.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\cryptoBall\\cryptoball\\index.html",
+              "RelativeDocumentMoniker": "cryptoball\\index.html",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\cryptoBall\\cryptoball\\index.html",
+              "RelativeToolTip": "cryptoball\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-28T07:17:58.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.css",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\cryptoBall\\cryptoball\\src\\App.css",
+              "RelativeDocumentMoniker": "cryptoball\\src\\App.css",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\cryptoBall\\cryptoball\\src\\App.css",
+              "RelativeToolTip": "cryptoball\\src\\App.css",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAswE0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-28T07:12:43.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Page3.jsx",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\cryptoBall\\cryptoball\\src\\pages\\Page3.jsx",
+              "RelativeDocumentMoniker": "cryptoball\\src\\pages\\Page3.jsx",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\cryptoBall\\cryptoball\\src\\pages\\Page3.jsx",
+              "RelativeToolTip": "cryptoball\\src\\pages\\Page3.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-11-28T07:04:52.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Page2.jsx",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\cryptoBall\\cryptoball\\src\\pages\\Page2.jsx",
+              "RelativeDocumentMoniker": "cryptoball\\src\\pages\\Page2.jsx",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\cryptoBall\\cryptoball\\src\\pages\\Page2.jsx",
+              "RelativeToolTip": "cryptoball\\src\\pages\\Page2.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-11-28T07:04:35.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.jsx",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\cryptoBall\\cryptoball\\src\\App.jsx",
+              "RelativeDocumentMoniker": "cryptoball\\src\\App.jsx",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\cryptoBall\\cryptoball\\src\\App.jsx",
+              "RelativeToolTip": "cryptoball\\src\\App.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-11-28T07:02:40.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BottomMenu.jsx",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\cryptoBall\\cryptoball\\src\\components\\BottomMenu.jsx",
+              "RelativeDocumentMoniker": "cryptoball\\src\\components\\BottomMenu.jsx",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\cryptoBall\\cryptoball\\src\\components\\BottomMenu.jsx",
+              "RelativeToolTip": "cryptoball\\src\\components\\BottomMenu.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-11-28T07:03:08.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GameContainer.jsx",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\cryptoBall\\cryptoball\\src\\components\\GameContainer.jsx",
+              "RelativeDocumentMoniker": "cryptoball\\src\\components\\GameContainer.jsx",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\cryptoBall\\cryptoball\\src\\components\\GameContainer.jsx",
+              "RelativeToolTip": "cryptoball\\src\\components\\GameContainer.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-11-28T07:02:33.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Header.jsx",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\cryptoBall\\cryptoball\\src\\components\\Header.jsx",
+              "RelativeDocumentMoniker": "cryptoball\\src\\components\\Header.jsx",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\cryptoBall\\cryptoball\\src\\components\\Header.jsx",
+              "RelativeToolTip": "cryptoball\\src\\components\\Header.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-11-28T07:02:11.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "cryptoball",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\cryptoBall\\cryptoBall\\cryptoball.esproj",
+              "RelativeDocumentMoniker": "cryptoBall\\cryptoball.esproj",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\cryptoBall\\cryptoBall\\cryptoball.esproj",
+              "RelativeToolTip": "cryptoBall\\cryptoball.esproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-28T06:51:58.436Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
